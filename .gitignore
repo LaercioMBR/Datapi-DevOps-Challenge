@@ -1,0 +1,6 @@
+devops/env.tfvars
+devops/.terraform.lock.hcl
+.ssh/
+devops/.terraform
+devops/terraform.tfstate.backup
+devops/terraform.tfstate
